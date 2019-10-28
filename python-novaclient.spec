@@ -8,7 +8,7 @@
 Summary:	Client library for OpenStack Compute API
 Name:		python-novaclient
 Version:	9.1.0
-Release:	2
+Release:	3
 License:	Apache
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/p/python-novaclient/%{name}-%{version}.tar.gz
